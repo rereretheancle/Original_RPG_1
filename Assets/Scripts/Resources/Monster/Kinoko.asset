@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c9ff24efe147d24f874325c3e6aaa8e, type: 3}
+  m_Name: Kinoko
+  m_EditorClassIdentifier: 
+  monstername: "\u304A\u3070\u3051\u304D\u306E\u3053"
+  description: 
+  battleimage: {fileID: 21300000, guid: f549e0ebe4bb4544cba1176df602b09e, type: 3}
+  type: 1
+  maxHP: 0
+  maxMP: 0
+  attack: 0
+  defence: 0
+  intel: 0
+  res: 0
+  speed: 0
