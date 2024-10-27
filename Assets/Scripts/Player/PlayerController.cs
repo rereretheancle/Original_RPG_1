@@ -10,7 +10,7 @@ public class PlayerController : MonoBehaviour
 
     private PlayerActions actions;
 
-    public bool isMoving;
+    public bool isMoving; //ˆÚ“®‰Â”\‚©‚Ç‚¤‚©”»’f‚·‚é•Ï”
     [SerializeField] private Rigidbody2D rb2D;
     public Vector2 moveDirection;
     private Animator animator;
