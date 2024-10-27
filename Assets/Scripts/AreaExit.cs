@@ -25,7 +25,7 @@ public class AreaExit : MonoBehaviour
     {
         if (other.tag == "Player")
         {
-            //PlayerController.instance.StopAllCoroutines();
+            PlayerController.instance.StopAllCoroutines();
             
             PlayerController.instance.moveDirection = Vector2.zero;
 
